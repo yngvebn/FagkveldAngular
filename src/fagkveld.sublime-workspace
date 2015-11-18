@@ -349,145 +349,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-		{
-			"file": "gulpfile.js",
-			"settings":
-			{
-				"buffer_size": 1182,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "tsconfig.json",
-			"settings":
-			{
-				"buffer_size": 295,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/app.config.js",
-			"settings":
-			{
-				"buffer_size": 434,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/components/person/person.js",
-			"settings":
-			{
-				"buffer_size": 398,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/components/person/person.tpl.html",
-			"settings":
-			{
-				"buffer_size": 280,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/common/capitalize.js",
-			"settings":
-			{
-				"buffer_size": 115,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/components/person/person.css",
-			"settings":
-			{
-				"buffer_size": 385,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/app.css",
-			"settings":
-			{
-				"buffer_size": 666,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/views/main/main.js",
-			"settings":
-			{
-				"buffer_size": 322,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/views/details/details.css",
-			"settings":
-			{
-				"buffer_size": 435,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/views/details/details.js",
-			"settings":
-			{
-				"buffer_size": 220,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/views/details/details.tpl.html",
-			"settings":
-			{
-				"buffer_size": 576,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/peopleService/peopleService.js",
-			"settings":
-			{
-				"buffer_size": 641,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/views/main/main.tpl.html",
-			"settings":
-			{
-				"buffer_size": 105,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "js/app.js",
-			"settings":
-			{
-				"buffer_size": 2173,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 554,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/app.module.js",
-			"settings":
-			{
-				"buffer_size": 37,
-				"line_ending": "Windows"
-			}
-		}
-	],
 	"build_system": "",
 	"build_system_choices":
 	[
@@ -692,22 +553,17 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/GitHub/FagkveldAngular/src",
-		"/C/GitHub/FagkveldAngular/src/app",
-		"/C/GitHub/FagkveldAngular/src/app/components/person",
-		"/C/GitHub/FagkveldAngular/src/app/views/details",
-		"/C/GitHub/FagkveldAngular/src/app/views/main",
-		"/C/GitHub/FagkveldAngular/src/bower_components",
-		"/C/GitHub/FagkveldAngular/src/bower_components/angular-ui-router",
-		"/C/GitHub/FagkveldAngular/src/bower_components/angular-ui-router/release",
-		"/C/GitHub/FagkveldAngular/src/bower_components/lodash",
-		"/C/GitHub/FagkveldAngular/src/css",
-		"/C/GitHub/FagkveldAngular/src/js"
-	],
 	"file_history":
 	[
+		"/C/GitHub/FagkveldAngular/assets/in.txt",
+		"/C/Users/yngven/AppData/Roaming/Sublime Text 3/Packages/User/ng2-import-http.sublime-snippet",
+		"/C/Users/yngven/appdata/roaming/Sublime Text 3/packages/user/ng2-import-router.sublime-snippet",
+		"/C/Users/yngven/appdata/roaming/Sublime Text 3/packages/user/ng2-pipe.sublime-snippet",
+		"/C/Users/yngven/AppData/Roaming/Sublime Text 3/Packages/User/ng2-import-router.sublime.snippet",
+		"/C/Users/yngven/AppData/Roaming/Sublime Text 3/Packages/User/ng2-routedef.sublime-snippet",
+		"/C/Users/yngven/AppData/Roaming/Sublime Text 3/Packages/User/ng2-comp.sublime-snippet",
+		"/C/Users/yngven/AppData/Roaming/Sublime Text 3/Packages/User/ng2-pipe.sublime-snippet",
+		"/C/GitHub/FagkveldAngular/src/ng2/app.tpl.html",
 		"/C/GitHub/angular-rocks/src/app/components/page/page.ts",
 		"/C/GitHub/angular-rocks/src/app/components/page/page.tpl.html",
 		"/C/GitHub/angular-rocks/src/app/app.ts",
@@ -826,20 +682,11 @@
 		"/C/Arbeid/etoto/code/Etoto.Shared/Contracts/PrizePaymentService/Rikstoto.Service.PrizePaymentServiceContract/paket.lock",
 		"/C/arbeid/etoto/code/Etoto.Shared/Contracts/AccountingService/Rikstoto.Service.BatchPaymentServiceContract/.paket/paket.targets",
 		"/C/Arbeid/etoto/code/Etoto.Shared/Contracts/AccountingService/Rikstoto.Service.BatchPaymentServiceContract/Rikstoto.Service.BatchPaymentServiceContract.csproj.user",
-		"/C/dev/angulardir/test.tpl.html",
-		"/C/dev/angulardir/utils.js",
-		"/C/arbeid/etoto/code/master/clients/lag.rikstoto.no/Solution/Rikstoto.TeamUp/Web.config",
-		"/C/Arbeid/etoto/code/master/tools/Git-Powershell/New-PullRequest.psm1",
-		"/C/Arbeid/etoto/code/master/tools/Start-EtotoService.psm1",
-		"/C/Arbeid/etoto/code/master/tools/configure.ps1",
-		"/C/arbeid/etoto/code/Etoto.Shared/Contracts/SharedContracts/Rikstoto.Service.SharedContracts.Test/paket.dependencies",
-		"/C/arbeid/etoto/code/Etoto.Shared/Contracts/SharedContracts/Rikstoto.Service.SharedContracts/paket.dependencies",
-		"/C/dev/angulardir/index.html",
-		"/C/Arbeid/etoto/code/master/build/commitToGitWithComment.ps1"
+		"/C/dev/angulardir/test.tpl.html"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -898,6 +745,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"details.person",
+			"go",
+			"navigate",
 			"}}\n",
 			"\n		",
 			")\n",
@@ -1022,17 +872,15 @@
 			"IMappingConfiguration",
 			"<IMapper>",
 			"Vanna Coletto",
-			"Online manual",
-			"\\\\n",
-			"Updates",
-			"$futureThingData"
+			"Online manual"
 		],
 		"highlight": true,
 		"in_selection": false,
-		"preserve_case": false,
+		"preserve_case": true,
 		"regex": true,
 		"replace_history":
 		[
+			"person",
 			"};",
 			"= function",
 			"",
@@ -1154,527 +1002,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"selected": 15,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "gulpfile.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1182,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								744,
-								744
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 405.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "tsconfig.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 295,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								64,
-								64
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/app.config.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 434,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								210,
-								210
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "app/components/person/person.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 398,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								374,
-								382
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/components/person/person.tpl.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 280,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								146,
-								146
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "app/common/capitalize.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 115,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								80,
-								80
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "app/components/person/person.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 385,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								83,
-								83
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": -0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "app/app.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 666,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								559,
-								559
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "app/views/main/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 322,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								322,
-								322
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "app/views/details/details.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 435,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								241,
-								241
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "app/views/details/details.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 220,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								158,
-								158
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "app/views/details/details.tpl.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 576,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								109,
-								109
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "app/peopleService/peopleService.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 641,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								76,
-								76
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "app/views/main/main.tpl.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 105,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								105,
-								105
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "js/app.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2173,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								209,
-								209
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 554,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								15,
-								15
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"file": "app/app.module.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 37,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								37,
-								37
-							]
-						],
-						"settings":
-						{
-							"encoding_helper_encoding": "UTF-8",
-							"encoding_thread_running": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				}
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 23.0
@@ -1719,10 +1046,9 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "fagkveld.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1731,6 +1057,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"ng2\\peopleService\\peopleService.ts"
+			],
 			[
 				"connection",
 				"dev\\app\\SignalR\\connection.factory.js"
@@ -1780,7 +1110,6 @@
 		],
 		"width": 488.0
 	},
-	"selected_group": 0,
 	"settings":
 	{
 	},

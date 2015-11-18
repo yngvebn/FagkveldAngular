@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{ path: '${1:/path}', as :'${2:RouteName}', component: ${3:Component} }
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ng2routedef</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
