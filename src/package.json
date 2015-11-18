@@ -9,9 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "angular2": "^2.0.0-alpha.46",
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
     "gulp-typescript": "^2.9.2",
-    "gulp-webserver": "^0.9.1"
+    "gulp-webserver": "^0.9.1",
+    "lodash": "^3.10.1",
+    "systemjs": "^0.19.6"
   }
 }
