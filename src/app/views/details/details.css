@@ -1,0 +1,31 @@
+.person-details{
+	border: 1px solid #bbb;
+	background-color: #eee;
+	width: 700px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.person-details .picture{
+	float: left;
+	height:200px;
+	width: 200px;
+	overflow: hidden;
+}
+
+.person-details .picture img{
+	height:200px;
+	padding: 0;
+	margin: 0;
+	border: none;
+}
+
+.person-details .meta-information{
+	float: left;
+	list-style-type: none;
+	max-width: 400px;
+}
+
+.person-details .meta-information{
+
+}

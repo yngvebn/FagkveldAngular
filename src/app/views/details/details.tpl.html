@@ -1,0 +1,12 @@
+<div class="person-details cf">
+	<div class="picture">
+		<img src="{{details.person.picture.large}}">
+	</div>
+	<ul class="meta-information">
+		<li><strong>{{ details.person.name.first | capitalize }}&nbsp;{{ details.person.name.last | capitalize}}</strong></li>
+		<li>-&nbsp;{{ details.person.email }}</li>
+		<li>-&nbsp;{{ details.person.username }}</li>
+		<li>-&nbsp;{{ details.person.phone }}</li>
+		<li>-&nbsp;{{ details.person.location.street}}, {{ details.person.location.city}}, {{ details.person.location.zip}}&nbsp;{{ details.person.location.state}}</li>
+	</ul>
+</div>

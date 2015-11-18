@@ -1,0 +1,6 @@
+<div class="person cf" ng-click="person.onSelect({ person: person.person })">
+	<div class="picture  cf">
+		<img src="{{person.person.picture.large}}" >
+	</div>
+	<div class="name  cf">{{person.person.name.last | capitalize }}, {{person.person.name.first | capitalize}}</div>
+</div>

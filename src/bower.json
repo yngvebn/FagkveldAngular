@@ -1,0 +1,23 @@
+{
+  "name": "src",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Yngve Bakken-Nilsen <yngve.nilsen@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/yngvebn/FagkveldAngular",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.7",
+    "angular-ui-router": "~0.2.15",
+    "lodash": "~3.10.1"
+  }
+}
